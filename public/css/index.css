@@ -1,0 +1,15 @@
+#area {
+    width: 100vw;
+    height: 100vh;
+    background-color: #2f3542!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#area-send {
+    width: 400px;
+}
+h1 {
+    text-align: center;
+    color: #ffffff;
+}

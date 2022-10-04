@@ -1,0 +1,1 @@
+<h1 style="color:white; text-align:center; background:#2f3542:">Email Sender to Mailtrap</h1>
